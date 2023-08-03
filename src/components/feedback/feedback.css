@@ -1,0 +1,11 @@
+.first-wrap{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.second-wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
